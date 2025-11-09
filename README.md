@@ -29,7 +29,7 @@ Before starting, make sure your environment is ready:
 1. **Clone the Repository**
 
    Clone this project to your local environment:
-git clone https://github.com/yourusername/dark-mode-toggle-nextjs.git
+git clone https:(https://github.com/amansingh2426/ai-technical-write)
 cd dark-mode-toggle-nextjs
 
 markdown
