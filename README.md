@@ -142,22 +142,30 @@ When testing your implementation, verify the following:
 
 ## 🧱 Folder Structure
 
-dark-mode-toggle-nextjs/
+ai-technical-writer/
+├── app/                      # App Router pages (Next.js)
+│   ├── layout.tsx            # Root layout with ThemeProvider
+│   ├── page.tsx              # Example homepage with toggle button
+│   └── ManualThemeToggle.tsx # Optional manual theme toggle
 │
-├── app/ # App Router pages
-│ ├── layout.tsx # Root layout with ThemeProvider
-│ └── page.tsx # Example homepage with toggle button
+├── components/               # Reusable UI components
+│   ├── ThemeToggle.tsx       # Toggle for next-themes setup
+│   └── Header.tsx            # Example header component (if any)
 │
-├── components/ # Reusable UI components
-│ ├── ThemeToggle.tsx # Toggle for next-themes setup
-│ └── ManualThemeToggle.tsx# Optional manual toggle
+├── styles/                   # Global and component styles
+│   ├── globals.css
+│   └── theme.css
 │
-├── styles/ # Global styles
-│ └── globals.css
+├── public/                   # Static assets (images, icons, etc.)
 │
-├── tailwind.config.js # Tailwind configuration
+├── utils/                    # Utility functions (if any)
+│   └── helpers.ts
+│
+├── tailwind.config.js        # TailwindCSS configuration
+├── next.config.js            # Next.js configuration
 ├── package.json
 └── README.md
+
 
 yaml
 Copy code
