@@ -142,29 +142,8 @@ When testing your implementation, verify the following:
 
 ## 🧱 Folder Structure
 
-ai-technical-writer/
-├── app/                      # App Router pages (Next.js)
-│   ├── layout.tsx            # Root layout with ThemeProvider
-│   ├── page.tsx              # Example homepage with toggle button
-│   └── ManualThemeToggle.tsx # Optional manual theme toggle
-│
-├── components/               # Reusable UI components
-│   ├── ThemeToggle.tsx       # Toggle for next-themes setup
-│   └── Header.tsx            # Example header component (if any)
-│
-├── styles/                   # Global and component styles
-│   ├── globals.css
-│   └── theme.css
-│
-├── public/                   # Static assets (images, icons, etc.)
-│
-├── utils/                    # Utility functions (if any)
-│   └── helpers.ts
-│
-├── tailwind.config.js        # TailwindCSS configuration
-├── next.config.js            # Next.js configuration
-├── package.json
-└── README.md
+<img width="242" height="612" alt="image" src="https://github.com/user-attachments/assets/c0578f0c-a63c-4925-bf32-4e1759bff960" />
+
 
 
 yaml
