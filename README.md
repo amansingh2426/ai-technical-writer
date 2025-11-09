@@ -142,7 +142,8 @@ When testing your implementation, verify the following:
 
 ## 🧱 Folder Structure
 
-<img width="242" height="612" alt="image" src="https://github.com/user-attachments/assets/c0578f0c-a63c-4925-bf32-4e1759bff960" />
+<img width="1536" height="1024" alt=" Image Nov 9, 2025, 06_14_36 PM" src="https://github.com/user-attachments/assets/3085b1e0-8657-4b22-88e4-9da509d60295" />
+
 
 
 
